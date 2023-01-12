@@ -9,6 +9,11 @@
 - 🔥 I'm building skills on the front-end side with JavaScript
 
 
-
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hichamzarrouk/)
+<div align="left">
+  <a href="https://www.linkedin.com/in/mathieu-schimmerling/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+</div>
