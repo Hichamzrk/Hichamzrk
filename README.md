@@ -4,6 +4,7 @@
 
 🟢 I'm available
 
-- 🖼️ **I am very creative**
-- 🚀 My passion is optimization and scaling performance
-- 🔥 I'm building skills on the front-end side with JavaScript
+🎨 **Highly creative**
+🚀 Passionate about optimizing and scaling performance 
+🔥 Building front-end skills with JavaScript 
+💻 Also passionate about back-end development and building robust, scalable systems with cutting-edge features.
